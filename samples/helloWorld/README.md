@@ -8,7 +8,7 @@ This simple sample has no external dependencies or session management, and shows
 To run this example skill you need to do two things. The first is to deploy the example code in lambda, and the second is to configure the Alexa skill to use Lambda.
 
 ### AWS Lambda Setup
-1. Go to the AWS Console and click on the Lambda link. Note: ensure you are in us-east or you won't be able to use Alexa with Lambda.
+1. Go to the AWS Console and click on the Lambda link. Note: ensure you are in US East (N. Virginia) or you won't be able to use Alexa with Lambda.
 2. Click on the Create a Lambda Function or Get Started Now button.
 3. Skip the blueprint
 4. Name the Lambda Function "Hello-World-Example-Skill".
